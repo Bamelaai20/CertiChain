@@ -37,7 +37,7 @@ The vision of CertiChain is to revolutionize the way academic certificates are i
 ## Contract Address
 
 ```
-0x8CE7f9c7224eEa2D243Be5E8C8F98f17f58f54C4
+0x4109fdd09240c60eb437061b9f64202f354144ba
 ```
 
 ## Future Scope
