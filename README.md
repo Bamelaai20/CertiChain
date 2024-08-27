@@ -1,4 +1,6 @@
-# CertiChain
+## CertiChain
+
+![Screenshot 2024-08-27 154447](https://github.com/user-attachments/assets/38f31b45-57de-48e8-afbf-f2287ec777a8)
 
 **CertiChain** is a blockchain-based platform designed for the secure issuance and verification of academic certificates. By leveraging smart contracts and distributed ledger technology, CertiChain ensures transparency, immutability, and efficiency in managing educational credentials.
 
@@ -39,6 +41,7 @@ The vision of CertiChain is to revolutionize the way academic certificates are i
 ```
 0x4109fdd09240c60eb437061b9f64202f354144ba
 ```
+![Screenshot 2024-08-27 155035](https://github.com/user-attachments/assets/335b39ed-80cf-4c17-984b-71d252a08c9e)
 
 ## Future Scope
 
